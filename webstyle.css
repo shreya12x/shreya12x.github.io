@@ -1,0 +1,62 @@
+.header{
+    text-align: center;
+    }
+    .header h1{
+        font-size: xx-large;
+    }
+    
+    .icons{
+        position:-webkit-sticky;
+        position: sticky;
+        top: 10em;
+        float: right;
+    }
+    
+    .nav{
+       overflow: hidden;
+        background-color: grey;
+    }
+    .nav a{
+    float:left;
+    display: block;
+    color:white ;
+    text-align: center;
+    padding: 12px 14px;
+    }
+    .nav a:hover{
+    background-color: green;
+    }
+    #AboutMe h2{
+        font-weight: bold;
+    }
+    
+    #Education h2{
+        font-weight: bold;
+    }
+    #Education table{
+    border-collapse: collapse;
+    width: 100%;
+    height: auto;
+    }
+    #Education th,td{
+        border:1px solid black ;
+        padding: 10px;
+    }
+    #Education th{
+    background-color: green;
+    text-align: left;
+    padding: 10px;
+    }
+    
+    #Courses h2, li{
+        font-weight: bold;
+    }
+    
+    #Projects h2{
+        font-weight: bold;
+    }
+    
+    #ContactMe h2{
+        font-weight: bold;
+    }
+    
